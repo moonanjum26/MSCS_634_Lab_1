@@ -1,8 +1,8 @@
 # MSCS 634 – Lab 1: Data Preprocessing and Visualization
 
-**Student**: Junaid Khan  
-**Course**: MSCS 634 – Data Science Fundamentals  
-**Lab Title**: Warehouse and Retail Sales Data Analysis
+**Student**: Mahwish Anjum  
+**Course**: 2025 Summer - Advanced Big Data and Data Mining (MSCS-634-M40) - Full Term
+**Lab Title**: Lab 1: Data Visualization, Data Preprocessing, and Statistical Analysis Using Python in Jupyter Notebook
 
 ---
 
